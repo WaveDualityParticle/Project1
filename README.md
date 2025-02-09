@@ -7,7 +7,9 @@ Day 1:
 - Used On Component Hit (Static Mesh) function to print a string. A Cast to Projectile between the print. Which allowed to a string
   to be printed if the projectile hit the target.
 - String being "Target Hit" or "Success"
+- 
   ![image](https://github.com/user-attachments/assets/3dd756e6-8214-416f-ae98-125d2d33d0e6)
+  
 - HUD class for crosshair FirstPersonHUD
 - Creation of a GameMode blueprint - usage of variables. Variable made is CurrentScore.
 
