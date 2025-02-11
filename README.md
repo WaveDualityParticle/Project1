@@ -56,6 +56,11 @@ viewport. Use the promote to variable short cut.
 
 ![image](https://github.com/user-attachments/assets/ad1d68d6-6b22-4773-a5cd-f589eac4e816)
 
+The Win Screen should now work like this...
+![image](https://github.com/user-attachments/assets/3071a71c-3068-457c-9790-d95603c8a9a5)
+
+
+
 
 
 
