@@ -58,6 +58,9 @@ viewport. Use the promote to variable short cut.
 
 The Win Screen should now work like this...
 ![image](https://github.com/user-attachments/assets/3071a71c-3068-457c-9790-d95603c8a9a5)
+Add a little button using the search bar.
+![image](https://github.com/user-attachments/assets/e4a00c79-d136-468c-813c-25079a08ae88)
+To offer the user to restart the game.
 
 
 
